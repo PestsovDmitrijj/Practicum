@@ -28,7 +28,7 @@ int main() {
 	c.setFerence(f);
 	c.printFields();
 
-	cout << "Demonstration of the method setArea; enter a area value: ";
+	cout << "Demonstration of the method setArea; enter an area value: ";
 	cin >> a;
 	c.setArea(a);
 	c.printFields();
