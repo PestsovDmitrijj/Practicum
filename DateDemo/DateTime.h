@@ -20,8 +20,8 @@ public:
 	int calcDifference(DateTime date);
 
 private:
-	time_t It;
-	time_t getIt() const;
-	void printDate(int day);
+	time_t dt_it;
+	time_t getDt_it() const;
+	void printDate(int day) const;
 
 };
