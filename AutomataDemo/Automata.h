@@ -1,11 +1,9 @@
 #include <iostream>
 #include <string>
 #include <ctime>
+#include <fstream>
 
-using std::cin;
-using std::cout;
-using std::endl;
-using std::string;
+using namespace std;
 
 class Automata{
 private:
